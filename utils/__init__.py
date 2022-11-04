@@ -4,4 +4,4 @@ from .optimizer import get_optimizer
 from .loss import get_criterion
 from .test import evaluate
 from .train import model_train
-#from .inference import translate_sentence
+from .inference import translate_sentence
